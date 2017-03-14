@@ -1,0 +1,39 @@
+html {
+  font-size: 18px;
+}
+.amendment-title {
+  color: rgb(179, 44, 44);
+  text-align: center;
+  font-size: 2rem;
+}
+
+.amendment-title:hover {
+  color: rgb(228, 148, 148);
+}
+
+.amendment-title::first-letter {
+  font-size: 2.5rem;
+}
+.document-history {
+  background-color: yellow;
+}
+
+.amendment-body {
+  text-align: center;
+}
+
+.document-history p {
+  width: 50%;
+}
+
+.document-history h4 {
+  background-color: rgb(249, 81, 81);
+}
+
+.highlight {
+  color:salmon;
+}
+
+#bill-of-rights {
+  font-style: italic;
+}
